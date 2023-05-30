@@ -1,3 +1,3 @@
-export class Answer {
+export class AnswerDTO {
   keywords: string;
 }
